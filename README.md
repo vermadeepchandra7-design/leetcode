@@ -6,6 +6,7 @@ The complete list of all the problems solved on leetcode
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
