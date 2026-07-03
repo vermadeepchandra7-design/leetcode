@@ -24,4 +24,9 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
