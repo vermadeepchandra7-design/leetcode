@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> sortArrayByParityII(vector<int>& nums) {
-        
+        /*  Solved by the Brute force approach */
         int n = nums.size();
 
         for(int i = 0; i < n; i++) {
