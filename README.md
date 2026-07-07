@@ -37,4 +37,8 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2785-sort-vowels-in-a-string](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
