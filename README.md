@@ -41,5 +41,14 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0009-palindrome-number) |
+| [1952-three-divisors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1952-three-divisors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vermadeepchandra7-design/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
