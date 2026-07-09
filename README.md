@@ -8,6 +8,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0015-3sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -16,6 +17,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0015-3sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
@@ -41,6 +43,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0015-3sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2785-sort-vowels-in-a-string](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
