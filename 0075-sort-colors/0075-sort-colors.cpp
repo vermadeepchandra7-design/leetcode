@@ -1,5 +1,8 @@
 class Solution {
-public:
+public:  /*  Approach : Use three pointers where i places 0s at the beginning,             j traverses the array, and k places 2s at the end.
+            If nums[j] is 0, swap it with nums[i] and move both i and j forward; if it is 1, simply move j forward.
+            If nums[j] is 2, swap it with nums[k] and decrement k without moving j, since the swapped element must be checked again.
+*/
 
     void sortColors(vector<int>& nums) {
         
