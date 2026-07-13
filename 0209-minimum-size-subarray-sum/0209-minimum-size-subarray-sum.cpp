@@ -1,41 +1,35 @@
 class Solution {
 public:
-    // Sliding Window Problem --> ( Type : Variable Window )
-
     int minSubArrayLen(int target, vector<int>& nums) {
+       // Optimized solution :(Sliding Window)
+       int n = nums.size() ;
+       int sum = 0 , result = INT_MAX ;
+       int low = 0 ;
+       int high = 0 ;
+/* IN variable size window always set :  low = 0 and high = 0 too
+       so the length of the sub-array calculated as :
+                        length = (high - low) + 1 */
+      while(high < n){
+          
+          // Hiring in amazon 
+          sum = sum + nums[high] ;
 
-        int n = nums.size();
-        int low = 0, high = 0;
-        int result = INT_MAX;
-        int sum = 0;
-
-        while (high < n) {
-
-            // Expanding the window
-            sum = sum + nums[high];
-
-            // Shrinking the window until sum becomes less than target
-            while (sum >= target) {
-
-                int len = high - low + 1;
-                result = min(result, len);
-
-                sum = sum - nums[low];
-                low++;
-            }
-
-            high++;
-        }
-
-        // If no valid subarray is found, return 0
-        if (result == INT_MAX) {
-            return 0;
-        }
-
-        return result;
+          while(sum >=target){
+/*this condition means work can be done with the hired people so store their    length and start firing */
+           int len = high - low + 1 ;
+           result = min(result , len);
+// storing lenght of the sub-array in the result 
+            sum = sum - nums[low] ;
+            low ++  ;
+// firing from Amazon because work can be done with the less number of employees
+          }
+          high ++ ;
+// new hiring in amazon 
+      }
+    if(result == INT_MAX){
+        return 0 ;
     }
-};
-
-/*  Time complexity  : O(n)
-    Space complexity : O(1)
-*/
+    return result ;
+    }
+}; /*   Time complexity  : O(n) 
+        space complexity : O(1)     */
