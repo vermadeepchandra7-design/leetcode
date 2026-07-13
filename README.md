@@ -12,6 +12,7 @@ The complete list of all the problems solved on leetcode
 | [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +65,12 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1952-three-divisors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
