@@ -13,6 +13,7 @@ The complete list of all the problems solved on leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ The complete list of all the problems solved on leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
