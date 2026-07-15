@@ -36,12 +36,14 @@ The complete list of all the problems solved on leetcode
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1108-defanging-an-ip-address](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -70,6 +72,7 @@ The complete list of all the problems solved on leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
