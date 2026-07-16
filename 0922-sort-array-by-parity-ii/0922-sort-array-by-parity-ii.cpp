@@ -1,23 +1,28 @@
 class Solution {
 public:
     vector<int> sortArrayByParityII(vector<int>& nums) {
-        /*  Solved by the Brute force approach */
-        int n = nums.size();
+       // By Two Pointer Approach 
+       int i = 0 , j = 1 ;
+       int n = nums.size() ;
+       while(i < n && j < n){
+               
+               if((i % 2 == 0 && nums[i] % 2 == 0) ){
+                   i = i+2 ;
+                   
+               }
+               else if(j % 2 != 0 && nums[j] % 2 != 0 )
+               {
+                j = j+2 ;
+               }
+               else{
+                swap(nums[i] , nums[j]) ;
+                i = i+2 ;
+                j = j+2 ;
+               }
+       }
 
-        for(int i = 0; i < n; i++) {
+       return nums ;
 
-            if((i % 2) != (nums[i] % 2)) {
-
-                for(int j = i + 1; j < n; j++) {
-
-                    if((i % 2) == (nums[j] % 2)) {
-                        swap(nums[i], nums[j]);
-                        break;
-                    }
-                }
-            }
-        }
-
-        return nums;
     }
-};
+}; /*   Time complexity  : O(n) 
+        space complexity : O(1)     */
