@@ -1,41 +1,45 @@
 class Solution {
 public:
-    vector<int> pivotArray(vector<int>& nums, int pivot) {
-        // Better Approach 
-        int n = nums.size() ;
-        int count_less = 0 ;
-        int count_equal = 0 ;
-        for(int & num  : nums){
-            // for getting count of elements in the given vector 
-            if( num < pivot){
-                count_less ++ ;
-            }
-            else if(num == pivot){
-                count_equal ++ ;
-            }
-        }
-        int i = 0 ; // handle elements less than pivot 
-        int j = count_less ; // handle elments equal to pivot
-        int k = count_less + count_equal ; // handle elements greater than pivot
-        // creating resultant vector 
-        vector<int>result(n) ;
-        for(int & num : nums){
-            // now storing all the values in the resultant
-            if(num < pivot){
-                result[i] = num ;
-                i++ ;
-            }
-            else if(num == pivot){
-                result[j] = num ;
-                j++ ;
-            }
-            else{
-                result[k] = num ;
-                k++ ;
-            }
-        }
+/*  Approach : Another Better Approach
 
-        return result ;
+1. Create a result vector of size n.
+2. Use two pointers (i, j) to traverse nums from both ends.
+3. Use two pointers (i_, j_) to fill the result vector from both ends.
+4. Place elements < pivot from the left and > pivot from the right.
+5. Fill the remaining positions with pivot.
+6. Return the result vector.
+*/
+    vector<int> pivotArray(vector<int>& nums, int pivot) {
+        // Another Better Approach
+        int n = nums.size() ;
+        /* Pointers for traversing the the given vector */
+        int i = 0 ; 
+        int j = n-1 ;
+        /* Vector for storing result */
+        vector<int>result(n) ;
+        /* Pointers for travesing in result vector */
+        int i_ = 0 ;
+        int j_ = n-1 ;
+        /*using while loop for the traversal*/
+        while( i < n && j >= 0){
+            
+            if(nums[i] < pivot){
+                result[i_] = nums[i] ;
+                i_ ++ ;
+            }
+             if(nums[j] > pivot){
+                result[j_] = nums[j] ;
+                j_ -- ;
+            }
+            i ++ ;
+            j -- ;
+        }
+        /* Now filling pivot element in the vector */
+        while(i_ <= j_ ){
+            result[i_] = pivot ;
+            i_ ++ ;
+        }
+       return result ; 
     }
-}; /*  Time complexity  : O(n) 
-       space complexity : O(n) */
+}; /*  Time complexity  : O(n)  
+       space complexity : O(1)   */
