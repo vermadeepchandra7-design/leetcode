@@ -16,6 +16,7 @@ The complete list of all the problems solved on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0942-di-string-match) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ The complete list of all the problems solved on leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0942-di-string-match) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -42,6 +44,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0942-di-string-match](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2785-sort-vowels-in-a-string](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -90,4 +93,8 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
