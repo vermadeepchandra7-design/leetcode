@@ -17,7 +17,7 @@ public:
         int low = 0, high = n;
         int i = 0;
 
-        while(i < n) {
+        while(i <= n) {
 
             if(s[i] == 'I') {
                 ans.push_back(low);
@@ -30,9 +30,6 @@ public:
 
             i++;
         }
-
-        // Append the last remaining number
-        ans.push_back(low);
 
         return ans;
     }
