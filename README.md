@@ -9,6 +9,7 @@ The complete list of all the problems solved on leetcode
 | [0015-3sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -69,6 +70,7 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
 | [1952-three-divisors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1952-three-divisors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vermadeepchandra7-design/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
