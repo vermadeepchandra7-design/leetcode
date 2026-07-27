@@ -26,6 +26,7 @@ The complete list of all the problems solved on leetcode
 | [0016-3sum-closest](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -45,6 +46,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0942-di-string-match](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1108-defanging-an-ip-address) |
