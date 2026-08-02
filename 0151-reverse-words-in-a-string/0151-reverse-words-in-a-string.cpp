@@ -1,31 +1,51 @@
 class Solution {
 public:
-/* Approach (Using stringstream)
-
-1. Put the given string into a stringstream.
-2. Extract one word at a time using the >> operator.
-3. Add each extracted word at the beginning of the result string.
-4. Continue until all words are processed.
-5. Remove the extra space at the end and return the final string.
-*/
+/* Approach:
+1. Reverse the entire string to bring the words in reverse order.
+2. Traverse the string and copy each word toward the front.
+3. Reverse each individual word to restore its original character order.
+4. Add a space after each processed word and continue until all words are processed.
+5. Remove the extra trailing space and return the final string.*/
     string reverseWords(string s) {
 
-        // Brute force solution (Using stringstream)
-        stringstream s_s(s);
+        int n = s.size();
 
-        string token;
-        string result = "";
+        // Reverse the complete string first
+        reverse(s.begin(), s.end());
 
-        // Extract each word and add it at the beginning
-        while (s_s >> token) {
+        // i: traverses string, l/r: track current word range
+        int i = 0;
+        int l = 0, r = 0;
 
-            result = token + " " + result;
+        while (i < n) {
+
+            // Copy current word to the front of the string
+            while (i < n && s[i] != ' ') {
+                s[r] = s[i];
+                i++;
+                r++;
+            }
+
+            // Reverse the current word to restore its characters
+            if (l < r) {
+                reverse(s.begin() + l, s.begin() + r);
+
+                // Add a space after the current word
+                s[r] = ' ';
+                r++;
+
+                // Set starting position for the next word
+                l = r;
+            }
+
+            // Skip the space between two words
+            i++;
         }
 
         // Remove the extra space at the end
-        result.pop_back();
+        s = s.substr(0, r - 1);
 
-        return result;
+        return s;
     }
-}; /*   Time complexity  : O(n)  
-        space complexity : O(n) */
+}; /*  Time complexity  : O(n) 
+       space complexity : O(1) */
