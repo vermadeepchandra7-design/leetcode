@@ -8,36 +8,38 @@
  */
 class Solution {
 public:
-/*
-Approach:
-1. Take two pointers: slow and fast, both starting from head.
-2. Move slow by 1 step and fast by 2 steps.
-3. If a cycle exists, slow and fast will eventually meet.
-4. If fast or fast->next becomes NULL, there is no cycle.
-5. If slow == fast, return true; otherwise return false.
-*/
-
+/*  Approach :
+         1. created two pointer slow and fast both initially present on head
+            i.e the same position
+         2. now slow will move one step at a time and fast will move two steps   at a time 
+         3. if there exist cycle in the list than we encountered with the condition where (slow == fast) and we retrun true
+         4. if the link list are straight than it do not consist cylcle so while 
+            loop get break and than we return false
+            */
     bool hasCycle(ListNode *head) {
 
-        /*  slow pointer and fast pointer Approach */
+       /* slow and fast pointer */ 
+       ListNode * slow = head ;
+       ListNode * fast = head ;
+/*
+   fast ko 2 steps move karna hai:
+   1st step → fast->next
+   2nd step → fast->next->next
 
-        ListNode * slow = head ;
-        ListNode * fast = head ;
+   Isliye fast aur fast->next NULL nahi hone chahiye.
+   Agar fast ya fast->next NULL hai → loop stop.
+*/
+while (fast != nullptr && fast->next != nullptr){
 
-        while( fast != nullptr && fast -> next != nullptr ){
-            
-            slow = slow -> next ;
-            fast = fast -> next -> next ;
-
-         /* if there is the loop in the link list  */
-         if( slow == fast ){
-
-            return true ;
-         }
-
-        }
-        return false ;
+    slow = slow -> next ;
+    fast = fast -> next -> next ;
+// cycle exist in the link list
+    if( slow == fast){
+        return true ;
     }
-
-}; /*  Time complexity  : O(n)  
-       space complexity : O(1)  */
+} 
+// cycle do not exist
+  return false   ;
+    }
+};/*  Time complexity  : O(n)  
+      space complexity : O(1) */
