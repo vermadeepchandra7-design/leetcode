@@ -9,46 +9,34 @@
 class Solution {
 public:
 /*
-Approach:
+Approach: (Brute force solution)
 
-1. If the list is empty or has only one node, return NULL.
-2. Take two pointers: slow and fast, both starting from head.
-3. Move slow 1 step and fast 2 steps to detect a cycle.
-4. If slow == fast, a cycle exists and we have found the meeting point.
-5. Take another pointer entry = head and move entry and slow 1 step at a time.
-6. When entry == slow, they point to the cycle's starting node, so return entry.
+1. Create an unordered_set to store the addresses of visited nodes.
+2. Start traversing the linked list from head using a current pointer.
+3. If current is already present in the set, a cycle exists; return current.
+4. Otherwise, store current in the set and move current to the next node.
+5. Continue until current becomes NULL or a repeated node is found.
+6. If current becomes NULL, no cycle exists, so return NULL.
 */
     ListNode *detectCycle(ListNode *head) {
-        /* Slow and fast pointer */
-        ListNode * slow = head ;
-        ListNode * fast = head ;
-    /* checking is there is only one Node or no node in the link list*/
-    if( head == nullptr || head->next == nullptr){
-        return nullptr ;
-    }
+/* Creating unordered_set for storing each traverse value */
+        unordered_set< ListNode* > visited ;
+        ListNode * current = head ;
 
-    /* using while loop for the cycle detection int the link list */
-    while( fast != nullptr && fast->next != nullptr ){
-       /* Deciding how many steps slow and fast pointer will take */
-       slow = slow -> next ;
-       fast = fast -> next -> next ;
-      /* when (slow == fast ) than cycle exist in the link list */
-      if(slow == fast){
-        break ;
-      }
-    }
-    if( slow != fast){
-    /* Means No cycle exist in the link list so return null */
+        while( current != nullptr){
+        /*checking if the current value we have visited or not*/
+        if(visited.count(current)){
+            
+            return current ;
+        }
+        else{
+            visited.insert(current);
+            current = current->next ;
+        }
+
+        }
+/* if the link list do not contain cycle then return nullptr */
+
     return nullptr ;
     }
-    
-    ListNode * entry = head ;
-    while( entry != slow ){
-        /* Deciding how entry pointer and the slow pointer will move */
-        entry = entry ->next ;
-        slow = slow -> next ;
-    }
-       return entry ; 
-    }
-}; /* Time complexity  : O(n) 
-      space complexity : O(1) */
+};
