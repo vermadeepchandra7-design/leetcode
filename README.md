@@ -119,6 +119,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -137,4 +138,8 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
