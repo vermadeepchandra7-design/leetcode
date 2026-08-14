@@ -19,6 +19,7 @@ The complete list of all the problems solved on leetcode
 | [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0942-di-string-match) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@ The complete list of all the problems solved on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
