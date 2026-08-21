@@ -80,6 +80,7 @@ The complete list of all the problems solved on leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
@@ -119,6 +120,7 @@ The complete list of all the problems solved on leetcode
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -145,5 +147,6 @@ The complete list of all the problems solved on leetcode
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
