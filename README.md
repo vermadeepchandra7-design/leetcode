@@ -56,6 +56,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -69,6 +70,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -89,6 +91,7 @@ The complete list of all the problems solved on leetcode
 | [0002-add-two-numbers](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0877-stone-game) |
