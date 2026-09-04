@@ -57,6 +57,7 @@ The complete list of all the problems solved on leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -93,6 +94,7 @@ The complete list of all the problems solved on leetcode
 | [0012-integer-to-roman](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1952-three-divisors) |
@@ -122,6 +124,7 @@ The complete list of all the problems solved on leetcode
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
@@ -169,6 +172,7 @@ The complete list of all the problems solved on leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
