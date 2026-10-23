@@ -50,6 +50,7 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0877-stone-game) |
 ## String
 |  |
@@ -96,6 +97,7 @@ The complete list of all the problems solved on leetcode
 | [0066-plus-one](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1952-three-divisors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vermadeepchandra7-design/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -165,6 +167,7 @@ The complete list of all the problems solved on leetcode
 | [0002-add-two-numbers](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -178,4 +181,8 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
