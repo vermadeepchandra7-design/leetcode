@@ -9,6 +9,7 @@ The complete list of all the problems solved on leetcode
 | [0015-3sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
@@ -49,6 +50,7 @@ The complete list of all the problems solved on leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0877-stone-game) |
@@ -185,4 +187,8 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
