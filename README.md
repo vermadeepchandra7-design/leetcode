@@ -13,6 +13,7 @@ The complete list of all the problems solved on leetcode
 | [0066-plus-one](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -52,6 +53,7 @@ The complete list of all the problems solved on leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0877-stone-game) |
 ## String
