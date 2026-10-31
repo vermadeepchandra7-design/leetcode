@@ -22,6 +22,7 @@ The complete list of all the problems solved on leetcode
 | [0904-fruit-into-baskets](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0942-di-string-match) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
@@ -56,6 +57,7 @@ The complete list of all the problems solved on leetcode
 | [0152-maximum-product-subarray](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0877-stone-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## String
 |  |
 | ------- |
