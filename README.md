@@ -24,6 +24,7 @@ The complete list of all the problems solved on leetcode
 | [0942-di-string-match](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0942-di-string-match) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vermadeepchandra7-design/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
@@ -131,6 +132,7 @@ The complete list of all the problems solved on leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vermadeepchandra7-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/vermadeepchandra7-design/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
