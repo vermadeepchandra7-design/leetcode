@@ -1,40 +1,36 @@
+
 class Solution {
 public:
-    /*1. Sabse pehle nums array ka size n calculate karenge.
-      2. Running sum store karne ke liye ek n-size ka new vector pre create
-      karenge.
-      3. Outer loop i = 0 se n-1 tak chalega, jo har index ko access karega.
-      4. Har iteration mein sum = 0 initialize karenge, taaki fresh calculation
-      start ho.
-      5. Inner loop j = 0 se i tak chalega, jo current index tak ke saare
-      elements access karega.
-      6. Har iteration mein nums[j] ko sum mein add karte jayenge.
-      7. Inner loop complete hone ke baad calculated sum ko pre[i] mein store
-      kar denge.
-      8. Finally, pre vector return kar denge, jisme har index ka running sum
-      stored hoga.*/
+    /*  1. Sabse pehle nums array ka size n calculate karenge.
+        2. Running sum store karne ke liye ek n-size ka new vector pre create
+       karenge.
+        3. First element ka running sum nums[0] hi hoga, isliye pre[0] = nums[0]
+       assign karenge.
+        4. Ab loop i = 1 se n-1 tak execute karenge.
+        5. Har iteration mein current element nums[i] ko access karenge.
+        6. Current element ko previous running sum pre[i-1] ke saath add
+       karenge.
+        7. Calculated sum ko pre[i] mein store kar denge. Is tarah har next
+       index ka running sum calculate hota jayega.
+        8. Finally, pre vector return kar denge, jisme complete running sum
+       stored hoga.    */
     vector<int> runningSum(vector<int>& nums) {
 
-        /* Brute Force Approach for Running Sum */
+        /* Optimized Approach for Running Sum */
 
         int n = nums.size();
 
-        // Running sum store karne ke liye ek n-size vector banaya
+        // Running sum store karne ke liye ek new vector create kiya
         vector<int> pre(n);
 
-        // Har index ke liye us index tak ka sum calculate karenge
-        for (int i = 0; i < n; i++) {
+        // First element ka running sum wahi element hoga
+        pre[0] = nums[0];
 
-            int sum = 0;
+        // Previous running sum ka use karke next running sum calculate karenge
+        for (int i = 1; i < n; i++) {
 
-            // Current index tak ke saare elements ka sum calculate hoga
-            for (int j = 0; j <= i; j++) {
-
-                sum += nums[j];
-            }
-
-            // Calculated sum ko corresponding index par store kiya
-            pre[i] = sum;
+            // Current element ko previous running sum mein add karenge
+            pre[i] = nums[i] + pre[i - 1];
         }
 
         return pre;
@@ -42,6 +38,6 @@ public:
 };
 
 /*
-Time Complexity  : O(n^2)
+Time Complexity  : O(n)
 Space Complexity : O(n)
 */
